@@ -1,4 +1,4 @@
-# Arturo Brachetti - Points: 50
+# Arturo Brachetti - Points: 50 - (Solves: 396)
 
 **Category**: Binary Exploitation
 
