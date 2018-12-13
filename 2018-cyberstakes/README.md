@@ -3,6 +3,7 @@
 Cyberstakes 2018 was an individual, online capture-the-flag (CTF) competition
 to test individuals hacking skills. It was open to all federal government
 employees, ROTC, and service academy students, and took place 30NOV-09DEC 2018.
+The final scoreboard for the top 10 finishers can be viewed below.
 
 ![Final Scoreboard (top 10)][scoreboard]
 
@@ -10,7 +11,8 @@ The competition completed with:
 - 1143 verified accounts.
 - 10616 total flags captured.
 
-I've attached writeups many of the challenges I solved during the competition.
+I've attached writeups for many of the challenges I solved during the
+competition.
 
 Challenge                                | Category            | Points | Solves
 -----------------------------------------|---------------------|--------|----
